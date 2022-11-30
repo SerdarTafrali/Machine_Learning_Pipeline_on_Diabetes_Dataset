@@ -12,7 +12,7 @@ The dataset is part of the large dataset held at the National Institutes of Diab
 
 Pregnancies: Number of pregnancies Glucose: Glucose. BloodPressure: Blood pressure. SkinThickness: Skin Thickness Insulin: Insulin. BMI: Body mass index. DiabetesPedigreeFunction: A function that calculates our probability of having diabetes based on our ancestry. Age: Age (years) Outcome: Information whether the person has diabetes or not. Have the disease (1) or not (0))
 
-### Proje Aşamaları
+### Project Stages:
 
 1. Exploratory Data Analysis
 2. Data Preprocessing
