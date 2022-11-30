@@ -1,28 +1,16 @@
 # Machine Learning Pipeline on Diabetes Dataset
 
-### İş Problemi:
+### Business Problem:
 
-Özellikleri belirtildiğinde kişilerin diyabet hastası olup olmadıklarını tahmin edebilecek bir makine öğrenmesi modeli geliştirmek
+Developing a machine learning model that can predict whether people have diabetes when their characteristics are specified.
 
-### Veri Seti Hikayesi
+### Dataset Story
 
-Veri seti ABD'deki Ulusal Diyabet-Sindirim-Böbrek Hastalıkları Enstitüleri'nde tutulan büyük veri setinin
-parçasıdır. ABD'deki Arizona Eyaleti'nin en büyük 5. şehri olan Phoenix şehrinde yaşayan 21 yaş ve üzerinde olan
-Pima Indian kadınları üzerinde yapılan diyabet araştırması için kullanılan verilerdir. 768 gözlem ve 8 sayısal
-bağımsız değişkenden oluşmaktadır. Hedef değişken "outcome" olarak belirtilmiş olup; 1 diyabet test sonucunun
-pozitif oluşunu, 0 ise negatif oluşunu belirtmektedir.
+The dataset is part of the large dataset held at the National Institutes of Diabetes-Digestive-Kidney Diseases in the USA. Data used for diabetes research on Pima Indian women aged 21 and over living in Phoenix, the 5th largest city of the State of Arizona in the USA. It consists of 768 observations and 8 numerical independent variables. The target variable is specified as "outcome"; 1 indicates positive diabetes test result, 0 indicates negative.
 
-### Değişkenler
+### Variables
 
-Pregnancies: Hamilelik sayısı
-Glucose: Glikoz.
-BloodPressure: Kan basıncı.
-SkinThickness: Cilt Kalınlığı
-Insulin: İnsülin.
-BMI: Beden kitle indeksi.
-DiabetesPedigreeFunction: Soyumuzdaki kişilere göre diyabet olma ihtimalimizi hesaplayan bir fonksiyon.
-Age: Yaş (yıl)
-Outcome: Kişinin diyabet olup olmadığı bilgisi. Hastalığa sahip (1) ya da değil (0)
+Pregnancies: Number of pregnancies Glucose: Glucose. BloodPressure: Blood pressure. SkinThickness: Skin Thickness Insulin: Insulin. BMI: Body mass index. DiabetesPedigreeFunction: A function that calculates our probability of having diabetes based on our ancestry. Age: Age (years) Outcome: Information whether the person has diabetes or not. Have the disease (1) or not (0))
 
 ### Proje Aşamaları
 
